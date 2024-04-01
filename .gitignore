@@ -1,0 +1,10 @@
+/node_modules
+/app
+package-lock.json
+.DS_Store
+.ecrc
+.editorconfig
+.htmlhintrc
+.sylelintrc.json
+.vscode
+.stylelintrc.json
